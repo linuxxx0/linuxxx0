@@ -1,40 +1,27 @@
 <div align="center">
 
-<div align="right">
-  
-<br><br>
+### *`x44annie`*
+#### *heap allocated, manually managed*
 
-<img align="right" src="meow.jpg" width="380px" height="380px">
+Technically a Java developer. Practically someone who spends work hours
+reading about crypto markets and promising to refactor later. <br>
+Writing this readme instead of closing that PR
+that's been open since last sprint. <br/>
+(the code works. I don't know why. please don't touch it.)
+
+If you think I know what I'm doing,
+you've probably witnessed a very confident push to main
+followed immediately by a new branch called `hotfix-please-god`. <br>
+Strong opinions about Spring Boot.
+Irrational fear of TypeScript.
+
+Also holds a diversified portfolio of ETFs
+because apparently buying the whole market is a personality trait. <br>
+Checks stock prices every 20 minutes. Calls it "long-term investing."
+
+Currently: learning Dutch, arguing with the JVM,
+and pretending crypto is a retirement plan.
 
 </div>
 
-<div align="left">
-  
-### Main Stack
-![Css](https://img.shields.io/badge/Css%20-B2BEB5?style=for-the-badge&logo=css&logoColor=000000)
-![Html](https://img.shields.io/badge/Html%20-B2BEB5?style=for-the-badge&logo=html5&logoColor=000000)
-![Java](https://img.shields.io/badge/Java%20-B2BEB5?style=for-the-badge&logo=gradle&logoColor=000000)
-![Docker](https://img.shields.io/badge/Docker%20-B2BEB5?style=for-the-badge&logo=docker&logoColor=000000)
-![Linux](https://img.shields.io/badge/Linux%20-B2BEB5?style=for-the-badge&logo=linux&logoColor=000000)<br>
-![Spring](https://img.shields.io/badge/Spring%20-B2BEB5?style=for-the-badge&logo=spring&logoColor=000000)
-![Postgre](https://img.shields.io/badge/Postgre%20-B2BEB5?style=for-the-badge&logo=postgreSQL&logoColor=000000)
-
-### Other Technologies
-![React](https://img.shields.io/badge/react%20-B2BEB5?style=for-the-badge&logo=react&logoColor=000000)
-![Next.js](https://img.shields.io/badge/next.js%20-B2BEB5?style=for-the-badge&logo=next.js&logoColor=000000)
-![Node.js](https://img.shields.io/badge/node.js%20-B2BEB5?style=for-the-badge&logo=node.js&logoColor=000000)
-![Tailwind](https://img.shields.io/badge/Tailwind%20-B2BEB5?style=for-the-badge&logo=tailwindcss&logoColor=000000)<br>
-![TypeScript](https://img.shields.io/badge/typescript%20-B2BEB5?style=for-the-badge&logo=typescript&logoColor=000000)
-![JavaScript](https://img.shields.io/badge/javascript%20-B2BEB5?style=for-the-badge&logo=javascript&logoColor=000000)
-
-### Code Editors  
-![Neovim](https://img.shields.io/badge/%20Neovim-B2BEB5?style=for-the-badge&logo=neovim&logoColor=000000)
-![Vscode](https://img.shields.io/badge/%20VsCode-B2BEB5?style=for-the-badge&logo=vscodium&logoColor=000000)
-![IntellijIDEA](https://img.shields.io/badge/%20intellij_idea-B2BEB5?style=for-the-badge&logo=intellijidea&logoColor=000000)
-
-
-### Operating systems
-![Arch](https://img.shields.io/badge/Arch%20-B2BEB5?style=for-the-badge&logo=arch-linux&logoColor=000000)
-![NixOS](https://img.shields.io/badge/NixOS%20-B2BEB5?style=for-the-badge&logo=nixos&logoColor=000000)
-![MacOS](https://img.shields.io/badge/MacOS%20-B2BEB5?style=for-the-badge&logo=macos&logoColor=000000)
 </div>
